@@ -1,6 +1,6 @@
 # COMM4190 Spring 2025 - Research Project
 
-<img src="images/interfacegraphic-4.jpg" width=300/>
+<img src="images/Screenshot 2025-05-12 at 1.42.15 PM.png" width=300/>
 
 ## From Static Plaques to Smart Tracks: How AI Audio Guides Are Personalizing the Museum Visit
 
